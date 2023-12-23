@@ -1,5 +1,5 @@
 ## Machine Learning Data App
-This is a data app that classifies product search corpus's data with Open AI API, apply a Word2Vec model using the choosen column and plot a t-SNE representations of the most common words.
+A data app that uses Open AI API to classify product-search-corpus dataset, also apply a Word2Vec model on classified data and plot a t-SNE representations of the most common classifications.
 
 ## 🔒 Authentication
 To login in this app, use the following credentials:
